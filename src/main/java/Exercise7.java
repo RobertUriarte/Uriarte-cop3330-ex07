@@ -16,7 +16,7 @@ public class Exercise7 {
         System.out.println("The area is");
         int area = length * width;
         System.out.println(area + " square feet.");
-        
+
         double m2 = area * conversion_factor;
 
         System.out.printf("%.3f square meters",m2);
